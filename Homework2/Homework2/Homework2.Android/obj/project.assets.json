@@ -800,11 +800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.Android\\Homework2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.Android\\Homework2.Android.csproj",
       "projectName": "Homework2.Android",
-      "projectPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.Android\\Homework2.Android.csproj",
+      "projectPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.Android\\Homework2.Android.csproj",
       "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.Android\\obj\\",
+      "outputPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -821,8 +821,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj": {
-              "projectPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj"
+            "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj": {
+              "projectPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj"
             }
           }
         }

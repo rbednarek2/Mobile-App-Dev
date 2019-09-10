@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.iOS\\Homework2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.iOS\\Homework2.iOS.csproj",
       "projectName": "Homework2.iOS",
-      "projectPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.iOS\\Homework2.iOS.csproj",
+      "projectPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.iOS\\Homework2.iOS.csproj",
       "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj": {
-              "projectPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj"
+            "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj": {
+              "projectPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj"
             }
           }
         }

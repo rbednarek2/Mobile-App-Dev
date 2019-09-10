@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj",
+      "projectUniqueName": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj",
       "projectName": "Homework2",
-      "projectPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\Homework2.csproj",
+      "projectPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\Homework2.csproj",
       "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Riley\\source\\repos\\Homework2\\Homework2\\Homework2\\obj\\",
+      "outputPath": "C:\\Users\\Riley\\Desktop\\Mobile-App-Dev\\Homework2\\Homework2\\Homework2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

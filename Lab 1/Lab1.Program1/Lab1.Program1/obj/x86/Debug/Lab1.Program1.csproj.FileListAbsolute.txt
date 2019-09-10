@@ -1,0 +1,13 @@
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/bin/Debug/Lab1.Program1.exe
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/bin/Debug/Lab1.Program1.pdb
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/obj/x86/Debug/Lab1.Program1.csprojAssemblyReference.cache
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/obj/x86/Debug/Lab1.Program1.csproj.CoreCompileInputs.cache
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/obj/x86/Debug/Lab1.Program1.exe
+/Users/bitstudent/Projects/Lab1.Program1/Lab1.Program1/obj/x86/Debug/Lab1.Program1.pdb
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\bin\Debug\Lab1.Program1.exe.config
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\bin\Debug\Lab1.Program1.exe
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\bin\Debug\Lab1.Program1.pdb
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\obj\x86\Debug\Lab1.Program1.csprojAssemblyReference.cache
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\obj\x86\Debug\Lab1.Program1.csproj.CoreCompileInputs.cache
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\obj\x86\Debug\Lab1.Program1.exe
+C:\Users\Riley\Desktop\Mobile-App-Dev\Lab1.Program1\Lab1.Program1\obj\x86\Debug\Lab1.Program1.pdb

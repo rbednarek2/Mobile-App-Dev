@@ -1,0 +1,11 @@
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\bin\Debug\netstandard2.0\Homework3.deps.json
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\bin\Debug\netstandard2.0\Homework3.dll
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\bin\Debug\netstandard2.0\Homework3.pdb
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\Homework3.AssemblyInfoInputs.cache
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\Homework3.AssemblyInfo.cs
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\Homework3.dll
+C:\Users\Riley\Desktop\Mobile-App-Dev\Homework3\Homework3\Homework3\obj\Debug\netstandard2.0\Homework3.pdb
