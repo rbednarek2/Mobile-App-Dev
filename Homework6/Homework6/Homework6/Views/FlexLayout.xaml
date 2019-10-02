@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FlexLayoutDemos"
+             x:Class="Homework6.Views.FlexLayout"
+             Title="Flex Layout">
+
+    <FlexLayout Direction="Column"
+                AlignItems="Center"
+                JustifyContent="SpaceEvenly">
+
+        <Label Text="FlexLayout in Action"
+               FontSize="Large" />
+
+        <Label Text="IMAGE HERE"/>
+
+        <Button Text="Do-Nothing Button" />
+
+        <Label Text="Another Label" />
+    </FlexLayout>
+</ContentPage>
