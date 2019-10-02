@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MorseCode.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="TextColor">Blue</Color>
+            <LayoutOptions x:Key="horzOptions" Alignment="Center"></LayoutOptions>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <StackLayout>
+        <Label Text="Output: "/>
+        <Label x:Name="output" Text="" />
+
+        <Button Text="." Clicked="Dot_Clicked"/>
+        <Button Text="-" Clicked="Dash_Clicked"/>
+        <Button Text="Space" Clicked="Space_Clicked"/>
+
+        <Label Text="Current input: "/> <Label x:Name="current"  Text=""/>
+
+        <Button Text="Clear" Clicked="Clear_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
