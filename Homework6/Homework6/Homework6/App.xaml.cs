@@ -1,9 +1,9 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Homework6.Services;
 using Homework6.Views;
 
-[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Homework6
 {
     public partial class App : Application
@@ -13,7 +13,7 @@ namespace Homework6
         {
             InitializeComponent();
 
-
+            DependencyService.Register<MockDataStore>();
             MainPage = new MainPage();
         }
 

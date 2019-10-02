@@ -5,17 +5,22 @@
              x:Class="Homework6.Views.FlexLayout"
              Title="Flex Layout">
 
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="NormalText">Red</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
     <FlexLayout Direction="Column"
                 AlignItems="Center"
                 JustifyContent="SpaceEvenly">
 
-        <Label Text="FlexLayout in Action"
-               FontSize="Large" />
+        <Label Text="Flex Layout Demo" FontSize="Large"/>
 
-        <Label Text="IMAGE HERE"/>
-
-        <Button Text="Do-Nothing Button" />
-
-        <Label Text="Another Label" />
+        <Image Source="https://upload.wikimedia.org/wikipedia/commons/6/63/Waterfront_Park_%28Seattle%29.jpg"/>
+        
+        <Label Text="This label is using a shared resource." TextColor="{StaticResource NormalText}" />
+        
+        <Label Text="And this one is not." />
     </FlexLayout>
 </ContentPage>
